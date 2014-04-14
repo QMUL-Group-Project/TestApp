@@ -1,0 +1,1 @@
+([:dependencies ([org.clojure/clojure "1.5.1"] [org.apache.lucene/lucene-core "3.0.2"] [clojure-csv/clojure-csv "2.0.1"] [clj-http/clj-http "0.4.1"] [org.clojure/tools.nrepl "0.2.3" :exclusions ([org.clojure/clojure])] [clojure-complete/clojure-complete "0.2.3" :exclusions ([org.clojure/clojure])] [ring/ring-devel "1.2.0"])])
